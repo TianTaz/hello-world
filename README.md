@@ -1,3 +1,3 @@
 # hello-world
 Halo! 
-me llamo tiattian. Soy chine. 
+me llamo tiantian. Soy chine. 
